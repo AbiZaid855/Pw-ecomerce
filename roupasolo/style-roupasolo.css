@@ -1,0 +1,118 @@
+.body1{
+    display: flex;
+    justify-content: center;
+    gap: 8px;
+}
+.foto{
+    height: 849.54px;
+    width: 849.54px;
+    background-color: rgb(175, 175, 175);
+}
+.metade-direita{
+}
+.div-nome{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 80px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 59px;
+    padding-bottom: 18px;
+    padding-left: 14px;
+}
+.div-valor{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    padding-bottom: 160px;
+    padding-left: 14px;
+}
+.div-tamanho{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    padding-left: 14px;
+    padding-bottom: 20px;
+}
+.div-PG {
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 186px;
+}
+.p{
+    flex-shrink: 0;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+.m{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+
+}
+.g{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+.gg{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+.compra{
+    border-radius: 3px;
+    border: 3px solid #000;
+    background: #B02307;
+    width: 575.422px;
+    text-align: center;
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    padding-left: 14px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.div-add-carrinho{
+    padding-top: 27px;
+}
+.add-carrinho{
+    width: 575.422px;
+    flex-shrink: 0;
+    border-radius: 3px;
+    border: 4px solid #000;
+    background: #353535;
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    padding-left: 14px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
